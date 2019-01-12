@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "init": "gatsby new .",
+    "develop": "gatsby develop"
+  },
+  "devDependencies": {
+    "gatsby": "^2.0.91"
+  },
+  "description": "gatsby-sample",
+  "author": "Himenon",
+  "private": false
+}
